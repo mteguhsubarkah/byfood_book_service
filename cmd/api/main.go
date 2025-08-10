@@ -1,3 +1,8 @@
+// @title byfood_service API
+// @version 1.0
+// @description This is the API documentation for Byfood Service.
+// @host localhost:8080
+// @BasePath /
 package main
 
 import (
