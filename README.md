@@ -26,10 +26,9 @@ This is the **byfoodservice** backend API built with Go, Gin, GORM (PostgreSQL),
 
 ### 1. Clone the repository
 
-```bash
+
 git clone https://github.com/yourusername/byfood_service.git
 cd byfood_service
 
 ### 2. Run the service
-```bash
 go run .\cmd\api\main.go
