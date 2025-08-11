@@ -32,3 +32,7 @@ cd byfood_service
 
 ### 2. Run the service
 go run .\cmd\api\main.go
+
+### 3. Access Swagger UI for API documentation
+http://localhost:8080/swagger/index.html
+
